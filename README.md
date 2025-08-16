@@ -1,5 +1,5 @@
 <aside>
-⛵ **TDD 챕터(hhplus-tdd-java) 목표**
+## ⛵ TDD 챕터(hhplus-tdd-java) 목표
 
 </aside>
 
