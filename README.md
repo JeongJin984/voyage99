@@ -1,7 +1,5 @@
-<aside>
-## ⛵ TDD 챕터(hhplus-tdd-java) 목표
 
-</aside>
+## ⛵ TDD 챕터(hhplus-tdd-java) 목표
 
 - **테스트 가능한 코드(Testable Code)의 의미를 명확히 이해하고, 다양한 종류의 테스트를 작성하며, TDD 기반의 요구사항 기능 개발을 학습합니다.**
 - TDD(Test-Driven Development)의 개념과 프로세스(Red-Green-Refactor)를 학습하고, 실제 실무에서 적용할 수 있도록 연습합니다.
